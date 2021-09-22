@@ -1,7 +1,7 @@
 ### Hi there 👋
 Nearly to be an electromechanical engineer .
 
-Since 2016 working on electronic projects. I use C / C++ for microcontrollers mostly, Python for develop my tools and web technologies for fun.
+Since 2016 working on electronic projects. I use C / C++ mostly for microcontrollers, Python for develop my tools and web technologies for fun.
 Coming soon my portfolio on barreiroleo.github.io, working on it.
 
 Nerd who loves Linux and enjoys to customize all of the development environment. Interested in better and efficiently methods for solving tasks. Always learning new technologies and tools.
