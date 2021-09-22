@@ -1,5 +1,5 @@
 ### Hi there 👋
-Quasi electromechanical engineer.
+Nearly to be an electromechanical engineer .
 
 Since 2016 working on electronic projects. I use C / C++ for microcontrollers mostly, Python for develop my tools and web technologies for fun.
 Coming soon my portfolio on barreiroleo.github.io, working on it.
