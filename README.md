@@ -8,4 +8,4 @@ Nerd who loves Linux and enjoys to customize all of the development environment.
 
 <!--- ![Leo Barreiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barreiroleo&show_icons=true=) --->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width=500>
