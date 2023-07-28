@@ -1,10 +1,14 @@
-### Hi there 👋
-Nearly to be an electromechanical engineer .
+# Hello there! 👋
 
-Since 2016 working on electronic projects. I use C / C++ mostly for microcontrollers, Python for develop my tools and web technologies for fun.
-Coming soon my portfolio on barreiroleo.github.io, working on it.
+I'm Leo from Argentina 🇦🇷.
 
-Nerd who loves Linux and enjoys to customize all of the development environment. Interested in better and efficiently methods for solving tasks. Always learning new technologies and tools.
+Close to graduating as an electromechanical engineer.
+
+Now working as a game dev backend with C++.
+
+Freelance since 2016 on electronic projects using C & C++ for embedded and Python for tooling.
+
+I'm a nerd who loves Linux, enjoys customizing his development environment, and trying out new technologies.
 
 <!--- ![Leo Barreiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barreiroleo&show_icons=true=) --->
 
