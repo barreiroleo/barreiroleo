@@ -1,14 +1,18 @@
 # Hello there! 👋
 
-I'm Leo from Argentina 🇦🇷.
+I'm Leo from Argentina, Sr C++ developer.
 
-Close to graduating as an electromechanical engineer.
+Currently working as a Backend SE at Globant. I worked on Madden 24 and Madden 25, one of the biggest franchises from EA Sports ([Moby ID 1464937](https://www.mobygames.com/person/1464937)).
 
-Now working as a game dev backend with C++.
+I started on embedded electronics around 2016 mostly using C, C++ and Python for tooling. Two seconds later, here I am.
 
-Freelance since 2016 on electronic projects using C & C++ for embedded and Python for tooling.
+## About me?
 
-I'm a nerd who loves Linux, enjoys customizing his development environment, and trying out new technologies.
+A nerd who loves Linux, (N)Vim, enjoy customizing my development environment, playing guitar, a̶n̶d̶ ̶r̶e̶w̶r̶i̶t̶i̶n̶g̶ ̶a̶l̶l̶ ̶i̶n̶ ̶r̶u̶s̶t̶.
+
+Close to graduate as an electromechanical engineer.
+
+## A fancy graph that means nothing
 
 <!--- ![Leo Barreiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barreiroleo&show_icons=true=) --->
 
