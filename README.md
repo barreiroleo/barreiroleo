@@ -2,24 +2,20 @@
 
 I'm Leo from Argentina 🇦🇷
 
-## About me?
+I'm an electromechanical engineer, experienced in embedded systems for Oil and Gas, gaming, and autonomous driving vehicles.
 
-A nerd who loves Linux, (N)Vim, enjoy customizing my development environment, playing guitar, a̶n̶d̶ ̶r̶e̶w̶r̶i̶t̶i̶n̶g̶ ̶a̶l̶l̶ ̶i̶n̶ ̶r̶u̶s̶t̶.
-
-Almost an electromechanical engineer. I already got my thesis, ok? 😂
-
+A nerd who loves engineering, Linux, Neovim, spending time with my family and dogs, playing guitar... You know, the good life.
 
 ## Quickly resume
-- I started as freelance for embedded systems around 2016. Mostly doing Oil and Gas projects for a couple of years.
-  - C, C++ for bare metal. Python scripting. PCB designing tools.
-
-- _Well, I'm skipping a lot of projects as freelancer_
-
-- I've been working at Globant as a Senior C++ Developer doing some backend systems for Madden 24 and Madden 25, one of the biggest franchises from EA Sports ([Moby ID 1464937](https://www.mobygames.com/person/1464937)).
-  - Frostbite engine, gRPC services, some scripting tools, and try to guess.. C++, C++ everywhere.
-
-- Now I'm doing some things for automotive industries (autonomous driving) at Spyrosoft.
-  - Guess what.. C++, C++ everywhere.
+- I started my career as a freelance doing some embedded systems for Oil and Gas projects for a couple of years.
+  - C and C++ for bare metal, Python scripting, PCB design tools.
+  - _Well, I'm skipping a lot of projects as a freelancer_
+- I've worked at Globant as a Senior C++ Developer doing some backend systems for Madden 24 and Madden 25, one of the biggest franchises from EA Sports ([Moby ID 1464937](https://www.mobygames.com/person/1464937)).
+  - Frostbite engine, gRPC services, some scripting tools, and try to guess... C++, a lot of C++.
+- Then I did some stuff for the automotive industry (autonomous driving) at Spyrosoft, for one of the top AI and graphics technology companies. You can imagine which one.
+  - Co-leading a Software Quality and Optimization team for planning and control modules.
+  - Performance analysis, hotspots mitigations, exceptions burndown, safety, etc.
+  - Guess what... C++, C++ everywhere (and some AUTOSAR / MISRA PTSD).
 
 ## A fancy graph that means nothing
 
