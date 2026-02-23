@@ -2,7 +2,9 @@
 
 I'm Leo from Argentina 🇦🇷
 
-I'm an electromechanical engineer, experienced in embedded systems for Oil and Gas, gaming, and autonomous driving vehicles.
+Electromechanical engineer experienced on embedded systems and software. I love to bridge hardware, firmware, and product execution to turn complex systems into simple, clear, and reliable solutions.
+
+I'm experienced in embedded systems, autonomous driving vehicles, and backend for AAA games.
 
 A nerd who loves engineering, Linux, Neovim, spending time with my family and dogs, playing guitar... You know, the good life.
 
@@ -16,6 +18,8 @@ A nerd who loves engineering, Linux, Neovim, spending time with my family and do
   - Co-leading a Software Quality and Optimization team for planning and control modules.
   - Performance analysis, hotspots mitigations, exceptions burndown, safety, etc.
   - Guess what... C++, C++ everywhere (and some AUTOSAR / MISRA PTSD).
+
+More about that in my website: [leobarreiro.com](https://leobarreiro.com/)
 
 ## A fancy graph that means nothing
 
